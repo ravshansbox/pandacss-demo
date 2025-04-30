@@ -9,6 +9,6 @@
   "devDependencies": {
     "@pandacss/dev": "^0.53.3",
     "prettier": "^3.5.3",
-    "vite": "^6.2.5"
+    "vite": "^6.2.7"
   }
 }
